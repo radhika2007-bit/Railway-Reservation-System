@@ -251,6 +251,9 @@ The modular structure makes the application easy to understand, maintain, and ex
 ## 👩‍💻 Author
 
 **Name:** Radhika Rai
+
 **Registration No.:** 25BAR10002
+
 **Program:** B.Arch
+
 **University:** VIT Bhopal University
